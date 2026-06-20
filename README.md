@@ -1,2 +1,14 @@
 # 2026worldcup-cnhub-hub
-HTML page archive and documentation
+
+HTML 页面维护仓库
+
+这里收集多个独立页面，方便在同一个仓库中管理。
+
+## 页面文件
+
+- 每个 HTML 文件可独立访问
+- 文件名称由发布任务生成
+
+## 维护状态
+
+仓库会随发布任务更新，若页面不可访问请以 GitHub 文件为准核对。
